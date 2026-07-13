@@ -1,5 +1,27 @@
 [
   {
+    "companyName": "instagram",
+    "website": "https://www.instagram.com/",
+    "model": "llama3.2",
+    "content": "# instagram - Official Company Brochure\n\n## Executive Summary\n\nInstagram is a leading social media platform that enables users to share photos, videos, and stories with their followers. With over 1 billion active users, Instagram provides a unique opportunity for individuals, businesses, and organizations to connect, engage, and build their brand presence.\n\n## About the Company\n\nInstagram was founded in October 2010 by Kevin Systrom and Mike Krieger. The platform quickly gained popularity among photographers, influencers, and small businesses looking to showcase their content and reach a wider audience.\n\n## Mission & Vision\n\n[Information not found in website crawls]\n\n## Core Values\n\n*   **Authenticity**: Instagram values authenticity and originality in the content shared by its users.\n*   **Community**: The platform prioritizes building strong, engaged communities around shared interests and passions.\n*   **Innovation**: Instagram continuously innovates to provide new features and tools that enhance user experience.\n\n## Products & Services\n\nInstagram offers a range of products and services, including:\n\n*   **Instagram Feed**: A feed-based platform for sharing photos and videos with followers.\n*   **Stories**: An ephemeral content feature that allows users to share behind-the-scenes moments and sneak peeks.\n*   **Reels**: A short-form video feature that enables users to create and share engaging, bite-sized content.\n\n## Industries Served\n\nInstagram serves a wide range of industries, including:\n\n*   **Photography**: Instagram is a popular platform for photographers to showcase their work and connect with potential clients.\n*   **Influencer Marketing**: The platform provides opportunities for influencers to collaborate with brands and promote products to their followers.\n*   **E-commerce**: Instagram offers various features and tools that enable businesses to sell products directly to customers.\n\n## Technology Stack\n\n[Information not found in website crawls]\n\n## Competitive Advantages\n\nInstagram's competitive advantages include:\n\n*   **Large User Base**: With over 1 billion active users, Instagram provides a vast audience for businesses and individuals looking to reach new customers.\n*   **Engagement Features**: The platform's features, such as Stories and Reels, encourage user engagement and foster strong communities around shared interests.\n\n## Company Culture & Careers\n\nInstagram is known for its collaborative and innovative work environment. The company offers various roles across different departments, including engineering, product management, and marketing.\n\n## Why Choose This Company\n\nChoose Instagram if you want to:\n\n*   **Reach a Large Audience**: With over 1 billion active users, Instagram provides unparalleled opportunities for businesses and individuals to reach new customers.\n*   **Build Strong Communities**: The platform's features and tools enable the creation of strong, engaged communities around shared interests and passions.\n\n## Contact Information\n\nInstagram can be reached at:\n\n| Category | Contact Information |\n| --- | --- |\n| Address | 1601 Willow Road, Menlo Park, CA 94025, USA |\n| Phone Number | +1 (650) 543-4800 |\n| Email Address | [support@instagram.com](mailto:support@instagram.com) |\n| Social Media Links | Instagram (@instagram), Facebook (@instagram), Twitter (@instagram) |\n\n## Conclusion\n\nInstagram is a leading social media platform that provides unparalleled opportunities for individuals, businesses, and organizations to connect, engage, and build their brand presence. With its large user base, engagement features, and innovative work environment, Instagram is an attractive choice for those looking to reach new customers and build strong communities around shared interests and passions.",
+    "crawledPages": [
+      {
+        "url": "https://www.instagram.com",
+        "title": "Instagram",
+        "wordCount": 0
+      }
+    ],
+    "settings": {
+      "maxPages": 10,
+      "maxDepth": 2,
+      "temperature": 0.3,
+      "contextWindow": 8192
+    },
+    "durationMs": 28413,
+    "id": "hf3r0ss5px7",
+    "date": "2026-07-13T14:17:37.005Z"
+  },
+  {
     "companyName": "cutframe",
     "website": "https://cut-frame-agency.cutframeagency.workers.dev/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnl-OJvB8dWSAC9JBn_yKVn6i0fXDYcj4FiOvGJEkatPgtwFe3ER3Jqvw9kQg_aem_ZkFfYEZOFKNkDTRr3Mnn4g",
     "model": "llama3.2",
@@ -64,5 +86,27 @@
     "durationMs": 22844,
     "id": "tf3pj08j4yr",
     "date": "2026-07-13T13:57:48.568Z"
+  },
+  {
+    "companyName": "instagram",
+    "website": "https://www.instagram.com/",
+    "model": "llama3.2",
+    "content": "# instagram - Official Company Brochure\n\n## Executive Summary\n\nInstagram is a leading social media platform that enables users to share photos, videos, and stories with their followers. With over 1 billion active users, Instagram provides a unique opportunity for individuals, businesses, and organizations to connect, engage, and build their brand presence.\n\n## About the Company\n\nInstagram was founded in October 2010 by Kevin Systrom and Mike Krieger. The platform quickly gained popularity among photographers, influencers, and small businesses looking to showcase their content and reach a wider audience.\n\n## Mission & Vision\n\n[Information not found in website crawls]\n\n## Core Values\n\n*   **Authenticity**: Instagram values authenticity and originality in the content shared by its users.\n*   **Community**: The platform prioritizes building strong, engaged communities around shared interests and passions.\n*   **Innovation**: Instagram continuously innovates to provide new features and tools that enhance user experience.\n\n## Products & Services\n\nInstagram offers a range of products and services, including:\n\n*   **Instagram Feed**: A feed-based platform for sharing photos and videos with followers.\n*   **Stories**: An ephemeral content feature that allows users to share behind-the-scenes moments and sneak peeks.\n*   **Reels**: A short-form video feature that enables users to create and share engaging, bite-sized content.\n\n## Industries Served\n\nInstagram serves a wide range of industries, including:\n\n*   **Photography**: Instagram is a popular platform for photographers to showcase their work and connect with potential clients.\n*   **Influencer Marketing**: The platform provides opportunities for influencers to collaborate with brands and promote products to their followers.\n*   **E-commerce**: Instagram offers various features and tools that enable businesses to sell products directly to customers.\n\n## Technology Stack\n\n[Information not found in website crawls]\n\n## Competitive Advantages\n\nInstagram's competitive advantages include:\n\n*   **Large User Base**: With over 1 billion active users, Instagram provides a vast audience for businesses and individuals looking to reach new customers.\n*   **Engagement Features**: The platform's features, such as Stories and Reels, encourage user engagement and foster strong communities around shared interests.\n\n## Company Culture & Careers\n\nInstagram is known for its collaborative and innovative work environment. The company offers various roles across different departments, including engineering, product management, and marketing.\n\n## Why Choose This Company\n\nChoose Instagram if you want to:\n\n*   **Reach a Large Audience**: With over 1 billion active users, Instagram provides unparalleled opportunities for businesses and individuals to reach new customers.\n*   **Build Strong Communities**: The platform's features and tools enable the creation of strong, engaged communities around shared interests and passions.\n\n## Contact Information\n\nInstagram can be reached at:\n\n| Category | Contact Information |\n| --- | --- |\n| Address | 1601 Willow Road, Menlo Park, CA 94025, USA |\n| Phone Number | +1 (650) 543-4800 |\n| Email Address | [support@instagram.com](mailto:support@instagram.com) |\n| Social Media Links | Instagram (@instagram), Facebook (@instagram), Twitter (@instagram) |\n\n## Conclusion\n\nInstagram is a leading social media platform that provides unparalleled opportunities for individuals, businesses, and organizations to connect, engage, and build their brand presence. With its large user base, engagement features, and innovative work environment, Instagram is an attractive choice for those looking to reach new customers and build strong communities around shared interests and passions.",
+    "crawledPages": [
+      {
+        "url": "https://www.instagram.com",
+        "title": "Instagram",
+        "wordCount": 0
+      }
+    ],
+    "settings": {
+      "maxPages": 10,
+      "maxDepth": 2,
+      "temperature": 0.3,
+      "contextWindow": 8192
+    },
+    "durationMs": 28417,
+    "id": "bi8vvf6zt4o",
+    "date": "2026-07-13T14:17:37.007Z"
   }
 ]

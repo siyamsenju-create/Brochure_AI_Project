@@ -7,6 +7,25 @@ An enterprise-grade AI-powered web application that automatically crawls company
 ![Uploading Screenshot 2026-07-13 at 7.47.21 PM.png…]()
 
 
+## 📸 Application Screenshots
+
+### Dashboard
+
+<p align="center">
+  <img src="assets/dashboard.png" width="100%">
+</p>
+
+### AI Brochure Generation
+
+<p align="center">
+  <img src="assets/generation.png" width="100%">
+</p>
+
+### Generated Brochure
+
+<p align="center">
+  <img src="assets/result.png" width="100%">
+</p>
 ---
 
 ## 🚀 Key Features
