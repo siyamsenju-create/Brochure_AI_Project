@@ -6,22 +6,15 @@ An enterprise-grade AI-powered web application that automatically crawls company
 
 ### Dashboard
 
-<p align="center">
-  <img src="assets/dashboard.png" width="100%">
-</p>
+dashboard.png
 
 ### AI Brochure Generation
 
-<p align="center">
-  <img src="assets/generation.png" width="100%">
-</p>
+generation.png
 
 ### Generated Brochure
 
-<p align="center">
-  <img src="assets/result.png" width="100%">
-</p>
----
+result.png
 
 ## 🚀 Key Features
 
