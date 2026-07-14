@@ -1,11 +1,6 @@
 # AI Company Brochure Generator
 
 An enterprise-grade AI-powered web application that automatically crawls company websites, extracts structured content, generates professional, highly detailed company brochures using local Ollama LLM models, and exports them to Markdown, PDF, DOCX, and HTML formats through a premium, state-of-the-art user interface.
-## Images
-![Uploading Screenshot 2026-07-13 at 7.46.13 PM.png…]()
-![Uploading Screenshot 2026-07-13 at 7.47.38 PM.png…]()
-![Uploading Screenshot 2026-07-13 at 7.47.21 PM.png…]()
-
 
 ## 📸 Application Screenshots
 
